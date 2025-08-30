@@ -4,34 +4,26 @@ Este é um aplicativo React Native desenvolvido como parte do desafio do bootcam
 
 ## Funcionalidades
 
-Tela Principal: Apresenta foto, nome e links para conexão profissional
-
-Tela de Habilidades: Exibe uma árvore de habilidades com níveis de proficiência
-
-Navegação: Interface de abas para alternar entre as telas
+- Tela Principal: Apresenta foto, nome e links para conexão profissional
+- Tela de Habilidades: Exibe uma árvore de habilidades com níveis de proficiência
+- Navegação: Interface de abas para alternar entre as telas
 
 ## Tecnologias Utilizadas
 
-React Native
-
-Expo
-
-TypeScript
-
-React Navigation
-
-React Native Screens
+- React Native
+- Expo
+- TypeScript
+- React Navigation
+- React Native Screens
 
 ## Pré-requisitos
 
 Antes de executar o projeto, você precisa ter instalado:
 
-Node.js (versão 16 ou superior)
-
-npm, yarn ou pnpm
-
-Expo CLI (opcional)
-
+- Node.js (versão 16 ou superior)
+- npm, yarn ou pnpm
+- Expo CLI (opcional)
+- 
 ## Como Executar
 
 ### Clone o repositório:

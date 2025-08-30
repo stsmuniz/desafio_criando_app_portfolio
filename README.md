@@ -23,7 +23,7 @@ Antes de executar o projeto, você precisa ter instalado:
 - Node.js (versão 16 ou superior)
 - npm, yarn ou pnpm
 - Expo CLI (opcional)
-- 
+
 ## Como Executar
 
 ### Clone o repositório:
